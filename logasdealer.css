@@ -1,0 +1,132 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    padding: 0.82rem;
+    box-shadow: 0 15px 15px -15px #b8b8b8;
+    position: sticky;
+    top: 0;
+    z-index: 4;
+    background: #435050;
+
+}
+.header-logo{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 0px 10px 0px 0px;
+}
+.sec {
+    flex-direction: row;
+}
+.anglee{
+    font-weight: 600;
+    margin: 0 10px 0 0;
+    text-transform: uppercase;
+    color: #fff;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    display: block;
+    padding: 0.5rem 1rem;
+}
+
+
+.tet-center{
+    background-color: #ff7331;
+    color: white;
+    text-align: center;
+}
+
+.btn-location{
+    background-color: #ff7331;
+    color: #fff;
+}
+
+.home{
+color: #00000080;
+}
+   
+
+.find{
+    color: #ff7331;
+}
+.or{
+    color: #ff7331;
+    font-size: 20px;
+    text-align: center;
+}
+.btn-search{
+    background-color: #000000;
+    color: #fff;
+}
+.container-footer{
+    background-color:#000000 ;
+    color: white;
+    margin-top: 40px;
+}
+.container-footer a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+  
+
+}
+.container-footer ul li{
+    list-style: none;
+    font-size:13px ;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 5px;
+}
+.card-header{
+    color: #ff7331;
+    font-size: 20px;
+    font-weight: bold;
+}
+.open{
+    text-align: center;
+    color: #ff7331;
+    font-size: 15px;
+}
+.crd-container .col-6 .card .card-body p ul{
+
+    list-style: none;
+}
+.web{
+    background-color: #ff7331;
+    color: #fff;
+    font-weight: bold;
+    border-color: #ff7331;
+}
+.web i{
+    margin-right: 8px;
+    font-size: 20px;
+}
+ .get{
+    background-color: #000000;
+    color: #fff;
+    font-weight: bold;
+    border-color: #000000;
+ }
+ .get i{
+    margin-right: 8px;
+    font-size: 20px;
+ }
+ .pic{
+    background-color: #fff;
+ }
+ .phone{
+    font-size: 18px;
+    font-weight: bold;
+ }
+ .list li{
+    list-style: none;
+ }
+ .space{
+    margin-right: 8px;
+font-size: 20px;
+
+ }
